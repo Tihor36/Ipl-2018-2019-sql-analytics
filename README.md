@@ -32,7 +32,7 @@ By examining four distinct seasonal tables across batsmen and bowlers, this anal
 
 The dataset is hosted on Google BigQuery under dataset `hitman22.ipl_analysis` across four primary relational tables:
 
-```mermaid
+```
 erDiagram
     2018_BATSMEN {
         STRING Player PK
@@ -329,8 +329,8 @@ Ipl-2018-2019-sql-analytics/
 ## 👤 Author & Contact
 
 **Rohit Kumar**  
-*Aspiring Data Analyst*
+
 
 * **GitHub:** [@Tihor36](https://github.com/Tihor36)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** [hello@yourdomain.com](mailto:hello@yourdomain.com)
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/rohit-kumar-269329288/)
+* **Email:** [hello@yourdomain.com](rohitk18943@gmail.com)
