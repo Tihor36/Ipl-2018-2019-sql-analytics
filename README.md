@@ -1,1 +1,0 @@
-# Ipl-2018-2019-sql-analytics
