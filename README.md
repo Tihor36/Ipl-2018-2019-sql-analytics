@@ -326,11 +326,3 @@ Ipl-2018-2019-sql-analytics/
 
 ---
 
-## 👤 Author & Contact
-
-**Rohit Kumar**  
-
-
-* **GitHub:** [@Tihor36](https://github.com/Tihor36)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/rohit-kumar-269329288/)
-* **Email:** [hello@yourdomain.com](rohitk18943@gmail.com)
